@@ -16,7 +16,9 @@ The following libraries are required to run this project:
 ## Usage
 To run this project, you can simply clone the repository and run the moving_means.py file.
 '''
+
 git clone https://github.com/Maximo-Rulli/Students_Clustering.git
+
 '''
 '''
 cd kmeans-clustering
