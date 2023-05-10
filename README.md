@@ -21,16 +21,12 @@ git clone https://github.com/Maximo-Rulli/Students_Clustering.git
 ```
 
 ```
-
 cd kmeans-clustering
-
 ```
 Run the program to visualize the algorithm working:
 
 ```
-
 python moving_means.py
-
 ```
 Results
 The K-Means algorithm was able to segregate the students into two groups based on their exam scores. The following scatter plot shows the two groups of students:
