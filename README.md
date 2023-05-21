@@ -3,14 +3,14 @@ This project is an implementation of K-Means clustering algorithm to segregate s
 
 ## Dataset
 The dataset used in this project consists of 100 students and their scores on two exams. It is a CSV file with the following columns:
-. Exam 1 
-. Exam 2 
+* Exam 1 
+* Exam 2 
 
 ## Dependencies
 The following libraries are required to run this project:
-. NumPy
-. Pandas
-. Matplotlib
+* NumPy
+* Pandas
+* Matplotlib
 
 
 ## Usage
@@ -28,7 +28,8 @@ Run the program to visualize the algorithm working:
 ```
 python moving_means.py
 ```
-Results
+
+## Results
 The K-Means algorithm was able to segregate the students into two groups based on their exam scores. The following scatter plot shows the two groups of students:
 
 Scatter Plot of Student Exam Scores
