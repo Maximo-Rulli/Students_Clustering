@@ -23,7 +23,13 @@ git clone https://github.com/Maximo-Rulli/Students_Clustering.git
 ```
 cd kmeans-clustering
 ```
-Run the program to visualize the algorithm working:
+
+### Install the required packages:
+```
+pip install -r requirements.txt
+```
+
+### Run the program to visualize the algorithm working:
 
 ```
 python moving_means.py
@@ -32,6 +38,6 @@ python moving_means.py
 ## Results
 The K-Means algorithm was able to segregate the students into two groups based on their exam scores. The following scatter plot shows the two groups of students:
 
-Scatter Plot of Student Exam Scores
+![Scatterplot of students' exams scores](students.png)
 
 The blue dots represent students who performed better on Exam 1, while the orange dots represent students who performed better on Exam 2. The red circles represent the centroids of the two clusters.
