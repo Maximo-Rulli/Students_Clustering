@@ -40,4 +40,4 @@ The K-Means algorithm was able to segregate the students into two groups based o
 
 ![Scatterplot of students' exams scores](students.png)
 
-The blue dots represent students who performed better on Exam 1, while the orange dots represent students who performed better on Exam 2. The red circles represent the centroids of the two clusters.
+The red dots represent students who performed better overall, while the green triangles are students who did not perfom as well as the others overall. The crosses are the clusters' centroids.
